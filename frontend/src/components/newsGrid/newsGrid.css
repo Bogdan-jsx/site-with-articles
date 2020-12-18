@@ -1,0 +1,11 @@
+.newsGridMain {
+    width: 1120px;
+    min-height: 79vh;
+    margin: 90px auto;
+    margin-bottom: 0;
+    padding-bottom: 100px;
+    background-color: #e4ff68;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

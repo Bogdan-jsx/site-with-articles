@@ -1,0 +1,38 @@
+.personalInfoBlock {
+    padding: 120px 20px 20px 20px;
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #e4ff68;
+}
+.personalAvatar {
+    width: 18%;
+    height: auto;
+}
+.userInfoTable td {
+    border: 1px solid black;
+    font-size: 26px;
+    padding: 10px;
+}
+.userInfoTable {
+    border-collapse: collapse;
+    width: 75%;
+}
+.paramName {
+    text-align: left;
+    font-weight: bold;
+}
+.paramInfo {
+    text-align: right;
+}
+.myArticles {
+    margin: 20px auto;
+}
+.addArticleLink {
+    border: none !important;
+    text-align: right;
+    cursor: pointer;
+}

@@ -1,0 +1,11 @@
+.logInBlock {
+    padding: 250px;
+}
+.logInBlock label, .logInBlock input {
+    margin-bottom: 35px;
+    font-size: 25px;
+    padding: 4px;
+}
+.noAccount {
+    font-size: 20px;
+}

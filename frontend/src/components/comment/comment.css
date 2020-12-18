@@ -1,0 +1,61 @@
+.comment {
+    margin-top: 25px;
+}
+.commentAuthorInfo, .commentInfo, .commentStats {
+    display: flex;
+    flex-wrap: wrap;
+}
+.commentInfo {
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+.userName {
+    font-size: 27px;
+    align-self: start;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+.editCommentButton {
+    text-decoration: underline;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.editComment {
+    display: flex;
+    align-items: flex-start;
+}
+.editCommentInput {
+    width: 850px;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.sendEditCommentButton {
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+}
+.answerButton {
+    cursor: pointer;
+}
+.answerInput {
+    width: 800px;
+    margin: 0 40px;
+    font-size: 18px;
+}
+.sendAnswerButton {
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+}
+.answerForm {
+    display: flex;
+    align-items: center;
+}

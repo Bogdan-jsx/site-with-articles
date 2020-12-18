@@ -1,0 +1,44 @@
+.answer {
+    margin-top: 25px;
+}
+.answerAuthorInfo, .answerInfo {
+    display: flex;
+    flex-wrap: wrap;
+}
+.answerInfo {
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+}
+.userName {
+    font-size: 27px;
+    align-self: start;
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 0;
+}
+
+.editAnswerButton {
+    text-decoration: underline;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.editAnswer {
+    display: flex;
+    align-items: flex-start;
+}
+.editAnswerInput {
+    width: 850px;
+    margin: 0 15px;
+    font-size: 18px;
+}
+.sendEditAnswerButton {
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+}

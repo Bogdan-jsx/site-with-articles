@@ -1,0 +1,11 @@
+.registerBlock {
+    padding: 250px;
+}
+.registerBlock label, .registerBlock input {
+    margin-bottom: 35px;
+    font-size: 25px;
+    padding: 4px;
+}
+.haveAccount {
+    font-size: 20px;
+}

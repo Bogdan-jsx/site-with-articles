@@ -1,0 +1,23 @@
+.deleteComfirmModal {
+    z-index: 9999;
+    padding: 100px;
+    background-color: #9CB72E;
+    border-radius: 10px;
+    border: 2px solid #7F9F00;
+    box-shadow: 0 0 10px #185100;
+    position: fixed;
+    top: 150px;
+    left: 625px;
+}
+.confirmText {
+    font-size: 26px;
+}
+button.cancel, button.confirm {
+    margin-top: 50px;
+    font-size: 23px;
+    padding: 10px;
+    border-radius: 10px;
+}
+button.confirm {
+    margin-left: 50px;
+}

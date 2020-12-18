@@ -1,0 +1,23 @@
+#addArticleForm > input,
+#addArticleForm > textarea,
+#addArticleForm > label,
+#addArticleForm > select {
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding: 3px;
+}
+#descriptionInput {
+    width: 500px;
+    margin: 0 20px;
+}
+#addArticleForm > select {
+    width: 200px;
+}
+#contentInput {
+    width: 1000px;
+    max-width: 1000px;
+    min-width: 1000px;
+}
+#saveButton {
+    border-radius: 5px;
+}

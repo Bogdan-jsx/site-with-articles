@@ -1,0 +1,51 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    background-color: #a8f000;
+    margin: 0;
+    height: 90px;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+}
+.logoName {
+    font-size: 50px;
+}
+.logoElem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    text-decoration: none;
+    color: black;
+}
+.searchInput {
+    width: 750px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 23px;
+}
+.searchButton {
+    width: 100px;
+    height: 34px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.login, .register, .personalArea, .logOut {
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+    margin-right: 50px;
+    cursor: pointer;
+}
+.headerButtons {
+    display: flex;
+    align-items: center;
+}
